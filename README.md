@@ -4,13 +4,17 @@
 
 ### Engineering the path from signal to system.
 
-I build software that keeps its state, explains its failures, and works close to the hardware: AI agents that can pause and resume, tooling that fails with useful context, mobile pipelines that survive noisy inputs, and payment protocols where every byte matters.
+I am a software engineer drawn to the handoff points other systems treat as details: the retry after an interruption, the malformed byte at a protocol boundary, the browser path that exists but cannot run, and the burst of BLE samples arriving faster than a UI can draw them.
+
+I turn those edges into dependable AI agents, developer tooling, real-time Android pipelines, and payment software. The stack changes; the questions stay the same: what state survives, how failure explains itself, and whether the next engineer can trust the change.
 
 **Mumbai** &nbsp;·&nbsp; **AI systems** &nbsp;·&nbsp; **Kotlin / Android** &nbsp;·&nbsp; **C++ protocols** &nbsp;·&nbsp; **Open source**
 
 ---
 
 ## Selected work
+
+Three examples of how I work: make evidence inspectable, model state explicitly, and improve failure at the source.
 
 ### 01 / Make operational evidence queryable
 
@@ -64,12 +68,11 @@ I choose the language after the constraints are clear. The recurring concerns st
 
 ## Smaller tools, sharp edges
 
-- **[KCache](https://github.com/GtechGovind/KCache)** — thread-safe Kotlin cache with expiration, eviction, and asynchronous access.
+- **[KCache](https://github.com/GtechGovind/KCache)** — coroutine-friendly Kotlin cache with TTL expiry, bounded capacity, periodic cleanup, and eviction callbacks.
 - **[CCache](https://github.com/GtechGovind/CCache)** — C++ LRU cache with time-to-live semantics.
-- **[AlgoForge Academy](https://github.com/GtechGovind/algoforge)** — a learning-platform rebuild with pattern-led material and implementations across Java, Python, and JavaScript.
 
 ---
 
-### Build with me
+## Build with me
 
-If you are working on agent reliability, developer tooling, real-time Android systems, or protocol-heavy software, start a conversation in the relevant repository—or browse **[all public work](https://github.com/GtechGovind?tab=repositories)**.
+The best collaboration usually starts with a stubborn edge case. If yours involves agent reliability, developer tooling, real-time Android systems, or protocol-heavy software, start a conversation in the relevant repository—or browse **[all public work](https://github.com/GtechGovind?tab=repositories)**.

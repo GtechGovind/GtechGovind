@@ -1,5 +1,12 @@
 I work on the parts of software that get interesting when they fail: resumable agent workflows, observable services, and protocol-heavy systems.
 
+<details>
+<summary><strong>Why these problems?</strong></summary>
+
+Most software looks reliable on the happy path. I care about what happens after interruption: whether state can resume, whether a failure leaves useful evidence, and whether protocol code makes every byte explainable.
+
+</details>
+
 ## What I’m working on
 
 - [SignalOps](https://github.com/GtechGovind/SignalOps) — a self-hostable Kotlin backend that turns telemetry into inspectable incident evidence, timelines, confidence, and limitations.

@@ -1,14 +1,16 @@
-![An abstract field of signals converging into a precise, ordered system](./assets/profile-hero-v2.webp)
-
 # Govind Yadav
+
+**Software engineer across AI agents, Kotlin/Android, C++ systems, and developer tooling.**
+
+**Mumbai, India** &nbsp;·&nbsp; [Selected work](#selected-work) &nbsp;·&nbsp; [In review](#work-currently-in-review) &nbsp;·&nbsp; [Technical range](#technical-range) &nbsp;·&nbsp; [Build with me](#build-with-me)
 
 ### Engineering the path from signal to system.
 
-I am a software engineer drawn to the handoff points other systems treat as details: the retry after an interruption, the malformed byte at a protocol boundary, the browser path that exists but cannot run, and the burst of BLE samples arriving faster than a UI can draw them.
+I work at the handoff points other systems treat as details: the retry after an interruption, the malformed byte at a protocol boundary, the browser path that exists but cannot run, and device samples arriving faster than a UI can render them. I work on those edges across AI-agent tooling, developer tools, real-time mobile pipelines, and payment software.
 
-I turn those edges into dependable AI agents, developer tooling, real-time Android pipelines, and payment software. The stack changes; the questions stay the same: what state survives, how failure explains itself, and whether the next engineer can trust the change.
+**Merged upstream:** [Kotlin #6982](https://github.com/JetBrains/kotlin/pull/6982) · [Google ADK for Go #1247](https://github.com/google/adk-go/pull/1247) &nbsp; | &nbsp; **Active proposals:** [Genkit](https://github.com/genkit-ai/genkit/pulls?q=is%3Apr+author%3AGtechGovind) · [Koog](https://github.com/JetBrains/koog/pull/2184) · [vinext](https://github.com/cloudflare/vinext/pull/2829)
 
-**Mumbai** &nbsp;·&nbsp; **AI systems** &nbsp;·&nbsp; **Kotlin / Android** &nbsp;·&nbsp; **C++ protocols** &nbsp;·&nbsp; **Open source**
+![An abstract field of signals converging into a precise, ordered system](./assets/profile-hero-v2.webp)
 
 ---
 
@@ -22,11 +24,11 @@ Three examples of how I work: make evidence inspectable, model state explicitly,
 
 `Kotlin` `Spring Boot` `PostgreSQL` `pgvector` `Prometheus` `Loki` `Tempo` `Kubernetes`
 
-> Design for constrained environments: local model providers, real telemetry adapters, and deployments that can remain private or air-gapped.
+> Design for constrained environments: telemetry adapters, local-model support, and self-hosted deployment paths.
 
 ### 02 / Treat protocols as models, not byte arrays
 
-**[open_loop_service_handler](https://github.com/GtechGovind/open_loop_service_handler)** gives open-loop transit-card data a typed C++17 object model for parsing, mutation, and serialization. **[DesfireCrypto](https://github.com/GtechGovind/DesfireCrypto)** handles the cryptographic edge: AES-128 operations, IV management, CMAC subkeys, padding, and authentication utilities for DESFire cards.
+**[open_loop_service_handler](https://github.com/GtechGovind/open_loop_service_handler)** gives open-loop transit-card data a typed C++17 object model for parsing, mutation, and serialization. **[DesfireCrypto](https://github.com/GtechGovind/DesfireCrypto)** handles the cryptographic edge: AES-128 operations, IV management, CMAC subkeys, padding, CRC32, and byte-processing utilities for DESFire cards.
 
 `C++17` `CMake` `AES-128` `CMAC` `Smart cards` `Transit systems`
 
@@ -37,7 +39,7 @@ Three examples of how I work: make evidence inspectable, model state explicitly,
 Two recent changes merged upstream:
 
 - **[Kotlin #6982](https://github.com/JetBrains/kotlin/pull/6982)** — validates custom browser executables lazily, produces a useful path-and-runner error, and preserves Gradle configuration-cache compatibility.
-- **[Google ADK for Go #1247](https://github.com/google/adk-go/pull/1247)** — adds test coverage for streaming function-tool confirmation behavior.
+- **[Google ADK for Go #1247](https://github.com/google/adk-go/pull/1247)** — adds focused test-only coverage for streaming function-tool confirmation behavior.
 
 `Kotlin` `Gradle` `Go` `Streaming APIs` `Test design`
 
@@ -61,15 +63,15 @@ My public repositories and upstream contributions span more than one ecosystem:
 | --- | --- |
 | **Application & agent systems** | Kotlin · Java · Go · Python · TypeScript · JavaScript |
 | **Low-level & protocol work** | C++17 · CMake · smart-card and payment protocols |
-| **Web & service delivery** | PHP · HTML/CSS · SQL/PostgreSQL · Spring Boot · React |
+| **Web & service delivery** | PHP · HTML/CSS · SQL/PostgreSQL · Spring Boot · HTTP APIs |
 | **Operations & automation** | Shell · HCL/Terraform · Docker · Kubernetes · Jinja |
 
 I choose the language after the constraints are clear. The recurring concerns stay the same: concurrency, recoverability, observability, useful failure modes, and small changes that reviewers can trust.
 
-## Smaller tools, sharp edges
+## Tools and learning systems
 
 - **[KCache](https://github.com/GtechGovind/KCache)** — coroutine-friendly Kotlin cache with TTL expiry, bounded capacity, periodic cleanup, and eviction callbacks.
-- **[CCache](https://github.com/GtechGovind/CCache)** — C++ LRU cache with time-to-live semantics.
+- **[AlgoForge Academy](https://github.com/GtechGovind/algoforge)** — a rebuilt, English-first algorithms curriculum with pattern-based interview roadmaps and examples in Java, Python, and JavaScript.
 
 ---
 

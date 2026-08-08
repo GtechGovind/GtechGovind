@@ -10,8 +10,6 @@ I work at the handoff points other systems treat as details: the retry after an 
 
 **Merged upstream:** [Kotlin #6982](https://github.com/JetBrains/kotlin/pull/6982) · [Google ADK for Go #1247](https://github.com/google/adk-go/pull/1247) &nbsp; | &nbsp; **Active proposals:** [Genkit](https://github.com/genkit-ai/genkit/pulls?q=is%3Apr+author%3AGtechGovind) · [Koog](https://github.com/JetBrains/koog/pull/2184) · [vinext](https://github.com/cloudflare/vinext/pull/2829)
 
-![An abstract field of signals converging into a precise, ordered system](./assets/profile-hero-v2.webp)
-
 ---
 
 ## Selected work

@@ -4,7 +4,7 @@
 
 ### Engineering the path from signal to system.
 
-I build software that has to keep its state, explain its failures, and work close to the hardware: AI agents that can pause and resume, tooling that fails with useful context, mobile pipelines that survive noisy inputs, and payment protocols where every byte matters.
+I build software that keeps its state, explains its failures, and works close to the hardware: AI agents that can pause and resume, tooling that fails with useful context, mobile pipelines that survive noisy inputs, and payment protocols where every byte matters.
 
 **Mumbai** &nbsp;·&nbsp; **AI systems** &nbsp;·&nbsp; **Kotlin / Android** &nbsp;·&nbsp; **C++ protocols** &nbsp;·&nbsp; **Open source**
 

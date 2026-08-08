@@ -1,14 +1,16 @@
-![An abstract field of signals converging into a precise, ordered system](./assets/profile-hero-v2.webp)
-
 # Govind Yadav
+
+**Software engineer across AI agents, Kotlin/Android, C++ systems, and developer tooling.**
+
+**Mumbai, India** &nbsp;·&nbsp; [Selected work](#selected-work) &nbsp;·&nbsp; [In review](#work-currently-in-review) &nbsp;·&nbsp; [Technical range](#technical-range) &nbsp;·&nbsp; [Build with me](#build-with-me)
 
 ### Engineering the path from signal to system.
 
-I am a software engineer drawn to the handoff points other systems treat as details: the retry after an interruption, the malformed byte at a protocol boundary, the browser path that exists but cannot run, and the burst of BLE samples arriving faster than a UI can draw them.
+I work at the handoff points other systems treat as details: the retry after an interruption, the malformed byte at a protocol boundary, the browser path that exists but cannot run, and the burst of BLE samples arriving faster than a UI can draw them. I turn those edges into dependable agents, tooling, real-time mobile pipelines, and payment software.
 
-I turn those edges into dependable AI agents, developer tooling, real-time Android pipelines, and payment software. The stack changes; the questions stay the same: what state survives, how failure explains itself, and whether the next engineer can trust the change.
+**Merged upstream:** [Kotlin #6982](https://github.com/JetBrains/kotlin/pull/6982) · [Google ADK for Go #1247](https://github.com/google/adk-go/pull/1247) &nbsp; | &nbsp; **Active proposals:** [Genkit](https://github.com/genkit-ai/genkit/pulls?q=is%3Apr+author%3AGtechGovind) · [Koog](https://github.com/JetBrains/koog/pull/2184) · [vinext](https://github.com/cloudflare/vinext/pull/2829)
 
-**Mumbai** &nbsp;·&nbsp; **AI systems** &nbsp;·&nbsp; **Kotlin / Android** &nbsp;·&nbsp; **C++ protocols** &nbsp;·&nbsp; **Open source**
+![An abstract field of signals converging into a precise, ordered system](./assets/profile-hero-v2.webp)
 
 ---
 
